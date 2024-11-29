@@ -28,7 +28,7 @@ server = "wss://ny1.xmrminingproxy.com";
 
 Open index.html in any web browser and it will automatically start mining.
 
-https://monero-webminer.vercel.app/
+[(https://monero-webminer-unrpool.vercel.app/)]
 
 
 # Check Progress 
